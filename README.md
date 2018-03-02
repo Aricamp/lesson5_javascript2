@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Hayden Ariotti
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project involved creating a tax bracket calulator in order to better understand methods in JavaScript.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://aricamp.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how JavaScript methods can affect HTML code.
+2. I learned how to use if/else statements in JavaScript.
+3. I learned how to use the document.getElementById method.
 
